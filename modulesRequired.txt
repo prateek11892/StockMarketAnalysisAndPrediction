@@ -1,0 +1,9 @@
+Install the following modules using pip before proceeding:
+
+pandas
+numpy
+matplotlib
+statsmodels
+sklearn
+xgboost
+yfinance
